@@ -1,0 +1,6 @@
+[submodule "src/io/lhalotree"]
+	path = src/io/lhalotree
+	url = https://github.com/manodeep/LHaloTreeReader
+[submodule "src/hinge"]
+	path = src/hinge
+	url = https://github.com/manodeep/hinge
